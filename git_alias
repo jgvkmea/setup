@@ -1,0 +1,23 @@
+[alias]
+    br = branch
+    brd = branch -d
+    brdd = branch -D
+    cm = commit -am
+    cmf = commit --fixup
+    co = checkout
+    cp = cherry-pick
+    dff = diff --name-only
+    dfn = diff --name-only
+    logo = log --oneline
+    logn = log --name-status --oneline
+    st = status
+    sw = switch
+    ss = stash save
+    sl = stash list
+    sa = stash apply
+    sp = stash pop
+    sd = stash drop
+    rei = rebase -i
+    rea = rebase --abort
+    rec = rebase --continue
+    reas = rebase --autosquash
